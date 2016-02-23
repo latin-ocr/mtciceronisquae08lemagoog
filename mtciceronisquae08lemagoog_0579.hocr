@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtciceronisquae08lemagoog/mtciceronisquae08lemagoog_0579.png"; bbox 0 0 2996 4694; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 478 1627 2586 1826">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 478 1627 2586 1826">
+     <span class='ocr_line' id='line_1_1' title="bbox 478 1627 2586 1826; baseline 0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 478 1699 651 1824; x_wconf 89' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 714 1697 1318 1825; x_wconf 77' lang='lat' dir='ltr'>TULLII</span> <span class='ocrx_word' id='word_1_3' title='bbox 1410 1635 2401 1826; x_wconf 79' lang='lat' dir='ltr'>CICERONIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 2580 1627 2586 1638; x_wconf 71' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1216 1986 1678 2066">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1216 1986 1678 2066">
+     <span class='ocr_line' id='line_1_2' title="bbox 1216 1986 1678 2066; baseline -0.002 0"><span class='ocrx_word' id='word_1_5' title='bbox 1216 1986 1678 2066; x_wconf 89' lang='lat' dir='ltr'><strong>ORATIO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 824 2235 2063 2371">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 824 2235 2063 2371">
+     <span class='ocr_line' id='line_1_3' title="bbox 824 2235 2063 2371; baseline 0.005 -32"><span class='ocrx_word' id='word_1_6' title='bbox 824 2235 1129 2343; x_wconf 85' lang='lat' dir='ltr'><strong>PRO</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1192 2236 1329 2371; x_wconf 87' lang='lat' dir='ltr'><strong>Q.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1399 2235 2063 2346; x_wconf 82' lang='lat' dir='ltr'><strong>LIGARIO</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
